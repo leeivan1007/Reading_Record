@@ -2,6 +2,12 @@
 
 It is my reading with RL, AI papers. There have 7 levels to explain the myself learning on reachers.
 
+There are few class :
+
+1. [Transfering and Muilt-task learning](https://github.com/leeivan1007/Reading_record#transfering_and_muilt-task_learning)
+
+## Transfering and Muilt-task learning
+
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | EPOpt: Learning robust neural network policies..  |  ✓  |  ✓  |    |    |    |    |    |
