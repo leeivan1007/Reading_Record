@@ -4,7 +4,16 @@ It is my reading with RL, AI papers. There have 7 levels to explain the myself l
 
 There are few class :
 
+1. [Grasping](https://github.com/leeivan1007/Reading_record#Grasping)
+
 1. [Transfering and Muilt-task learning](https://github.com/leeivan1007/Reading_record#transfering_and_muilt-task_learning)
+
+## Grasping
+
+| paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
+|  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparative Evaluation of Off-Policy Methods  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
+| Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection  |  ✓  |    |  ✓  |  ✓  |  ✓  |  ✓  |    |
 
 ## Transfering and Muilt-task learning
 
