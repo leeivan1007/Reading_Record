@@ -10,6 +10,8 @@ There are few class :
 
 3. [Manipulation](https://github.com/leeivan1007/Reading_record#Manipulation)
 
+3. [Exploration](https://github.com/leeivan1007/Reading_record#Exploration)
+
 ## Grasping
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
@@ -44,3 +46,10 @@ There are few class :
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Transporter Networks- Rearranging the Visual World for Robotic Manipulation  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
+
+## Exploration 
+
+| paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
+|  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| Deep Exploration via Bootstrapped DQN  |  ✓  |  ✓  |  ✓  |    |    |    |    |
+| VIME_Variational Information Maximizing Exploration  |  ✓  |  ✓  |    |    |    |    |    |
