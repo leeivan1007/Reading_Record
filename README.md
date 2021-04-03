@@ -57,3 +57,9 @@ There are few class :
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Deep Exploration via Bootstrapped DQN  |  ✓  |  ✓  |  ✓  |    |    |    |    |
 | VIME_Variational Information Maximizing Exploration  |  ✓  |  ✓  |    |    |    |    |    |
+## Sim2real 
+
+| paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
+|  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  |    |     |    |    |    |    |
+| 3D Simulation for Robot Arm Control with Deep Q-Learning  |  ✓  |  ✓  | ✓  |    |    |    |    |
