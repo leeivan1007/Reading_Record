@@ -20,6 +20,7 @@ There are few class :
 | Learning Hand-Eye Coordination for Robotic Grasping with Deep Learning and Large-Scale Data Collection  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
 | A Framework for Efficient Robotic Manipulation  |  ✓  |  ✓  |    |    |    |    |    |
 | Grasp Proposal Networks- An End-to-End Solution for Visual Learning of Robotic Grasps  |  ✓  |  ✓  |  ✓  |    |    |    |    |
+| QT-Opt Scalable Deep_Reinforcement Learning for Vision-Based Robotic Manipulation  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |
 
 ## Transfering and Muilt-task learning
 
