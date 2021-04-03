@@ -21,6 +21,9 @@ There are few class :
 | A Framework for Efficient Robotic Manipulation  |  ✓  |  ✓  |    |    |    |    |    |
 | Grasp Proposal Networks- An End-to-End Solution for Visual Learning of Robotic Grasps  |  ✓  |  ✓  |  ✓  |    |    |    |    |
 | QT-Opt Scalable Deep_Reinforcement Learning for Vision-Based Robotic Manipulation  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |
+| Dex-Net 2.0: Deep Learning to Plan Robust Grasps withSynthetic Point Clouds and Analytic Grasp Metrics |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
+| Dex-Net 2.1: Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
+| Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets using a New Analytic Model and Deep Learning  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 
 ## Transfering and Muilt-task learning
 
