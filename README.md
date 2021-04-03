@@ -10,7 +10,9 @@ There are few class :
 
 3. [Manipulation](https://github.com/leeivan1007/Reading_record#Manipulation)
 
-3. [Exploration](https://github.com/leeivan1007/Reading_record#Exploration)
+4. [Exploration](https://github.com/leeivan1007/Reading_record#Exploration)
+
+5. [Sim2real](https://github.com/leeivan1007/Reading_record#Sim2real)
 
 ## Grasping
 
