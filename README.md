@@ -74,3 +74,4 @@ There are few class :
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search  |  ✓  |    |     |    |    |    |    |
+| Sim-To-Real Transfer for Miniature AutonomousCar Racing |  ✓  |    |     |    |    |    |    |
