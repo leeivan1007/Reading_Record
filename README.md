@@ -14,6 +14,8 @@ There are few class :
 
 5. [Sim2real](https://github.com/leeivan1007/Reading_record#Sim2real)
 
+5. [Others](https://github.com/leeivan1007/Reading_record#Others)
+
 ## Grasping
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
@@ -26,6 +28,7 @@ There are few class :
 | Dex-Net 2.0: Deep Learning to Plan Robust Grasps withSynthetic Point Clouds and Analytic Grasp Metrics |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
 | Dex-Net 2.1: Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 | Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets using a New Analytic Model and Deep Learning  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
+|  Combining Deep Deterministic Policy Gradient with Cross-Entropy Method |  ✓  |  ✓  |    |    |    |    |    |
 
 ## Transfering and Muilt-task learning
 
@@ -52,6 +55,7 @@ There are few class :
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Transporter Networks- Rearranging the Visual World for Robotic Manipulation  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
+| Robotic Table Tennis with Model-Free Reinforcement Learning  |  ✓  |  ✓  |    |    |    |    |    |
 
 ## Exploration 
 
@@ -65,3 +69,8 @@ There are few class :
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  |    |     |    |    |    |    |
 | 3D Simulation for Robot Arm Control with Deep Q-Learning  |  ✓  |  ✓  | ✓  |    |    |    |    |
+## Others 
+
+| paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
+|  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search  |  ✓  |    |     |    |    |    |    |
