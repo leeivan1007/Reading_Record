@@ -29,6 +29,7 @@ There are few class :
 | Dex-Net 2.1: Learning Deep Policies for Robot Bin Picking by Simulating Robust Grasping Sequences  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 | Dex-Net 3.0: Computing Robust Robot Suction Grasp Targets using a New Analytic Model and Deep Learning  |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 |  Combining Deep Deterministic Policy Gradient with Cross-Entropy Method |  ✓  |  ✓  |    |    |    |    |    |
+| Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 
 ## Transfering and Muilt-task learning
 
