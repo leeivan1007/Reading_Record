@@ -79,5 +79,5 @@ There are few class :
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search  |  ✓  |    |     |    |    |    |    |
 | An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition  |  ✓  |  ✓  |  ✓  |    |    |    |    |
-| ClearGrasp:
+| ClearGrasp
 3D Shape Estimation of Transparent Objects for Manipulation  |  ✓  |  ✓  |  ✓  |    |    |    |    |
