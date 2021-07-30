@@ -70,9 +70,14 @@ There are few class :
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  |    |     |    |    |    |    |
 | 3D Simulation for Robot Arm Control with Deep Q-Learning  |  ✓  |  ✓  | ✓  |    |    |    |    |
+| RL-CycleGAN Reinforcement Learning_Aware Simulation_To_Real  |  ✓  |  ✓  | ✓  |  ✓  |  ✓  |  ✓  |    |
+| RetinaGAN An Object-aware Approach to Sim-to-Real Transfer  |  ✓  |  ✓  | ✓  |  ✓  |  ✓  |    |    |
+| Sim-To-Real Transfer for Miniature AutonomousCar Racing |  ✓  |    |     |    |    |    |    |
 ## Others 
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | Learning to Stop: Dynamic Simulation Monte-Carlo Tree Search  |  ✓  |    |     |    |    |    |    |
-| Sim-To-Real Transfer for Miniature AutonomousCar Racing |  ✓  |    |     |    |    |    |    |
+| An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition  |  ✓  |  ✓  |  ✓  |    |    |    |    |
+| ClearGrasp:
+3D Shape Estimation of Transparent Objects for Manipulation  |  ✓  |  ✓  |  ✓  |    |    |    |    |
