@@ -38,8 +38,8 @@ There are few class :
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | You Only Look Once: Unified, Real-Time Object Detection |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
-| YOLO9000: Better, Faster, Stronger  |  ✓  |  ✓  |    |  ✓  |  ✓  |  ✓  |  ✓  |
-| YOLOv3: An Incremental Improvement |  ✓  |  ✓  |    |  ✓  |  ✓  |  ✓  |    |
+| YOLO9000: Better, Faster, Stronger  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
+| YOLOv3: An Incremental Improvement |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
 | Mask R-CNN |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
 
 
