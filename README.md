@@ -42,6 +42,7 @@ There are few class :
 | YOLOv3: An Incremental Improvement |  ✓  |  ✓  |    |  ✓  |  ✓  |  ✓  |    |
 | Mask R-CNN |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
 
+
 ## Transfering and Muilt-task learning
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
