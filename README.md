@@ -6,15 +6,17 @@ There are few class :
 
 1. [Grasping](https://github.com/leeivan1007/Reading_record#Grasping)
 
-2. [Transfering and Muilt-task learning](https://github.com/leeivan1007/Reading_record#transfering_and_muilt-task_learning)
+2. [Computer vision](https://github.com/leeivan1007/Reading_record#Computer_vision)
 
-3. [Manipulation](https://github.com/leeivan1007/Reading_record#Manipulation)
+3. [Transfering and Muilt-task learning](https://github.com/leeivan1007/Reading_record#transfering_and_muilt-task_learning)
 
-4. [Exploration](https://github.com/leeivan1007/Reading_record#Exploration)
+4. [Manipulation](https://github.com/leeivan1007/Reading_record#Manipulation)
 
-5. [Sim2real](https://github.com/leeivan1007/Reading_record#Sim2real)
+5. [Exploration](https://github.com/leeivan1007/Reading_record#Exploration)
 
-5. [Others](https://github.com/leeivan1007/Reading_record#Others)
+6. [Sim2real](https://github.com/leeivan1007/Reading_record#Sim2real)
+
+7. [Others](https://github.com/leeivan1007/Reading_record#Others)
 
 ## Grasping
 
@@ -31,6 +33,15 @@ There are few class :
 |  Combining Deep Deterministic Policy Gradient with Cross-Entropy Method |  ✓  |  ✓  |    |    |    |    |    |
 | Learning_Hand-Eye_Coordination_for_Robotic_Grasping_with_Deep_Learning_and_Large-Scale_Data_Collection |  ✓  |  ✓  |  ✓  |  ✓  |    |    |    |
 
+## Computer vision
+
+| paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
+|  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| You Only Look Once: Unified, Real-Time Object Detection |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |
+| YOLO9000: Better, Faster, Stronger  |  ✓  |  ✓  |    |  ✓  |  ✓  |  ✓  |  ✓  |
+| YOLOv3: An Incremental Improvement |  ✓  |  ✓  |    |  ✓  |  ✓  |  ✓  |    |
+| Mask R-CNN |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |  ✓  |    |
+
 ## Transfering and Muilt-task learning
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
@@ -42,11 +53,7 @@ There are few class :
 | Adapting Visuomotor Representations with Weak Pairwise Constraints  |  ✓  |    |    |    |    |    |    |
 | Sing Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  |    |    |    |    |    |    |
 | One-Shot Learning of Manipulation Skills with Online Dynamics Adaptation...  |  ✓  |    |    |    |    |    |    |
-|  Distilling the Knowledge in a Neural Network  |    |    |    |    |    |    |    |
-|  Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning  |    |    |    |    |    |    |    |
-|  Learning Modular Neural Network Policies..  |    |    |    |    |    |    |    |
 |  Reinforcement Learning with Deep Energy-Based Policies  |  ✓  |    |    |    |    |    |    |
-|  Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |    |    |    |    |    |    |    |
 |  DARLA: Improving Zero-Shot Transfer in Reinforcement Learning  |  ✓  |    |    |    |    |    |    |
 |  Modular Multitask Reinforcement Learning with Policy Sketches  |  ✓  |    |    |    |    |    |    |
 |  Stochastic Neural Networks for Hierarchical Reinforcement Learning  |  ✓  |    |    |    |    |    |    |
