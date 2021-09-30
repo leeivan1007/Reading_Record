@@ -67,11 +67,11 @@ There are few class :
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
-| Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  |    |     |    |    |    |    |
-| 3D Simulation for Robot Arm Control with Deep Q-Learning  |  ✓  |  ✓  | ✓  |    |    |    |    |
+| Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping  |  ✓  | ✓  | ✓  |    |    |    |    |
+| 3D Simulation for Robot Arm Control with Deep Q-Learning  |  ✓  |  ✓  | ✓  | ✓  | ✓  |    |    |
 | RL-CycleGAN Reinforcement Learning_Aware Simulation_To_Real  |  ✓  |  ✓  | ✓  |  ✓  |  ✓  |  ✓  |    |
 | RetinaGAN An Object-aware Approach to Sim-to-Real Transfer  |  ✓  |  ✓  | ✓  |  ✓  |  ✓  |    |    |
-| Sim-To-Real Transfer for Miniature AutonomousCar Racing |  ✓  |    |     |    |    |    |    |
+| Sim-To-Real Transfer for Miniature AutonomousCar Racing |  ✓  | ✓  | ✓  |    |    |    |    |
 ## Others 
 
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
