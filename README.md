@@ -47,12 +47,8 @@ There are few class :
 | paper | ~15%  |  ~30%   | ~45%  | ~60%  | ~70%  | ~80%  | ~90%  |
 |  ----  |  ----  | ----  | ----  | ----  | ----  | ----  | ----  |
 | EPOpt: Learning robust neural network policies..  |  ✓  |  ✓  |    |    |    |    |    |
-| Preparing for the Unknown: Learning a Universal Policy with Online System Identification  |  ✓  |    |    |    |    |    |    |
 | Sim-to-Real Transfer of Robotic Control with Dynamics Randomization  |  ✓  |    |    |    |    |    |    |
 | Adapting Visuomotor Representations with Weak Pairwise Constraints  |  ✓  |    |    |    |    |    |    |
-| DARLA: Improving Zero-Shot Transfer in Reinforcement Learning  |  ✓  |    |    |    |    |    |    |
-| Modular Multitask Reinforcement Learning with Policy Sketches  |  ✓  |    |    |    |    |    |    |
-
 
 ## Manipulation
 
